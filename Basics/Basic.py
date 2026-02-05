@@ -55,6 +55,3 @@ Type conversion means converting one data type into another data type.
 age = "23"        # string
 age = int(age)   # string → int
 # print(type(age))
-
-
-# -------------------------------------------------------------------------
