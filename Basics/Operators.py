@@ -1,6 +1,14 @@
+
 """
 Topics: Operators 
 Description: Python operator is perform operation between vales and variables
+1. Arithmetic Operators
+2. Comparison (Relational) Operators
+3. Logical Operators
+4. Assignment Operators
+5. Bitwise Operator
+6. Membership Operators
+7. Identity Operators
 """
 #1️⃣ Arithmetic Operators
 '''Arithmetic Operators is perform mathamatic operation
