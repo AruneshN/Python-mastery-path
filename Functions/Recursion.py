@@ -23,8 +23,8 @@ print(factorial(5))
 
 def num(n):
     if n>10:
-        pass
-    else:
-        m
+        return
+    print(n)
+    num(n+1)
 
-print(num(10))
+num(1)
