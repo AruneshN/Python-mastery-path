@@ -67,6 +67,9 @@ else:
 1) for
 2) while
 '''
+# if -else comprehension
+result = ["Even" if x % 2 == 0 else "Odd" for x in range(5)]
+print(result)
 
 #1) for
 '''
@@ -184,4 +187,5 @@ db={
 for name,age in db.items():
     if age >=24:
         continue
+
     print(name)
